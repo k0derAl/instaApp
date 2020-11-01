@@ -1,0 +1,4 @@
+# instaApp
+Need:
+- cocoapods
+- swiftlint
